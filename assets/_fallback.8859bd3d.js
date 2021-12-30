@@ -1,0 +1,1 @@
+import{S as s,i as a,s as t,o as r,p as e,q as n}from"./vendor.8ac32013.js";function o(s,a,t){let o,l;return r(s,e,(s=>t(0,o=s))),r(s,n,(s=>t(1,l=s))),l("../../v1/"+o,null,!0,!0),[]}class l extends s{constructor(s){super(),a(this,s,o,null,t,{})}}export{l as default};
